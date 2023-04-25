@@ -1,11 +1,13 @@
 # Context-Aware-Object-Detection
 
-Project report - dissertation.pdf
+### Repository structure
 
-Scene Classification Datasets - IC (image classification)
-Object Detection Datasets - OD (object detection)
+**Project report** - dissertation.pdf
 
-Deep learning models - Scene Classification Model
-                     - Object Detection Model
-                     - Context-Aware Model 1
-                     - Context-Aware Model 2
+**Scene Classification Dataset** - IC (image classification)
+**Object Detection Datasets** - OD (object detection)
+
+**Deep learning models** - Scene Classification Model
+                         - Object Detection Model
+                         - Context-Aware Model 1
+                         - Context-Aware Model 2
