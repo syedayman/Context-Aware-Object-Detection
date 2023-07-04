@@ -1,3 +1,0 @@
-https://1drv.ms/u/s!Ak22heJg5zmGauiYUPFHUvfFTjw?e=JAKCzV
-
-this link can be used to download the scene recognition model (scenerecognition.h5) which was too large to be uploaded on github
