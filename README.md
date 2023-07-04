@@ -2,11 +2,7 @@
 
 ## Repository structure
 
-**Project Report:** dissertation.pdf
-
-**Scene Classification Dataset:** IC (image classification)
-
-**Object Detection Dataset:** OD (object detection)
+**Project Report:** COAD project report.pdf
 
 **Deep Learning Models:**
 - Scene Classification Model
