@@ -1,9 +1,8 @@
 # Context-Aware-Object-Detection
+## Research Paper 
+The project report, published on IEEE Xplore, can be found [here](https://ieeexplore.ieee.org/document/10458735) 
 
 ## Repository structure
-
-**Project Report:** COAD project report.pdf
-
 **Deep Learning Models:**
 - Scene Classification Model
 - Object Detection Model
